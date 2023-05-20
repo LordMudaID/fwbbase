@@ -9,9 +9,9 @@ db_url = os.environ.get("DB_URL", "mongodb+srv://owl:<password>@fwb.ouw7bsq.mong
 db_name = os.environ.get("DB_NAME", "menfess")
 # =========================================================== #
 
-channel_1 = int(os.environ.get("CHANNEL_1", "-1001884106616"))
-channel_2 = int(os.environ.get("CHANNEL_2", "-1001973439933"))
-channel_log = int(os.environ.get("CHANNEL_LOG", "-1001941178911"))
+channel_1 = int(os.environ.get("CHANNEL_1", "-1001939199795"))
+channel_2 = int(os.environ.get("CHANNEL_2", "-1001967525428"))
+channel_log = int(os.environ.get("CHANNEL_LOG", "-1001857433789"))
 # =========================================================== #
 
 id_admin = int(os.environ.get("ID_ADMIN", "5633222043"))
