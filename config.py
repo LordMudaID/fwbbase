@@ -57,20 +57,20 @@ pesan_join = os.environ.get("PESAN_JOIN", "Tidak dapat diakses harap join terleb
 start_msg = os.environ.get("START_MSG", """"
 {mention},Silahkan gunakan hastag:
 
-#NekoBoy / #NekoGirl untuk Mencari Pasangan,Teman , Partner dll
-#NekoAsk untuk Bertanya
-#NekoStory untuk Berbagi Cerita
-#NekoSpill untuk Spill Masalah
-#NekoFind untuk Mencari Pasangan, Teman, Partner dll
+#FwbBoy / #FwbGirl untuk Mencari Pasangan,Teman , Partner dll
+#FwbAsk untuk Bertanya
+#FwbStory untuk Berbagi Cerita
+#FwbSpill untuk Spill Masalah
+#FwbFind untuk Mencari Pasangan, Teman, Partner dll
 
-{fullname} 🌱\n\nIni adalah bot menfess, semua pesan yang kamu kirim akan masuk ke channel secara anonymous. ketik /help""")
+{fullname} \nIni adalah bot menfess, semua pesan yang kamu kirim akan masuk ke channel secara anonymous. ketik /help""")
 
 gagalkirim_msg = os.environ.get("GAGAL_KIRIM", """
 {mention}, pesan mu gagal terkirim silahkan gunakan hastag:
 
-#NekoBoy / #NekoGirl untuk Mencari Pasangan, Teman , Partner dll
-#NekoAsk untuk Bertanya
-#NekoStory untuk Berbagi Cerita
-#NekoSpill untuk Spill Masalah
-#NekoFind untuk Mencari Pasangan, Teman, Partner dll
+#FwbBoy / #FwbGirl untuk Mencari Pasangan,Teman , Partner dll
+#FwbAsk untuk Bertanya
+#FwbStory untuk Berbagi Cerita
+#FwbSpill untuk Spill Masalah
+#FwbFind untuk Mencari Pasangan, Teman, Partner dll
 """)
